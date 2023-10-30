@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161315206894",
+    "firebase_url": "https://pr20yeeep-default-rtdb.firebaseio.com/",
+    "project_id": "pr20yeeep",
+    "storage_bucket": "pr20yeeep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161315206894:android:9bf79bb7ad5f2f8929e5ff",
+        "android_client_info": {
+          "package_name": "com.example.pr20yeeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyF_SVNlDOhLLikdgrBeZc-RB8FS8tTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
